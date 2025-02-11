@@ -1,0 +1,16 @@
+p.truncate {
+    position: relative;
+    /* Height = Lineheight x No. of lines you want truncate  */
+    height: 96px;
+    overflow: hidden;
+    word-break: break-all;
+  }
+  
+  p.truncate:after {
+    content: "...";
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    background: white;
+    padding: 0 5px;
+  }

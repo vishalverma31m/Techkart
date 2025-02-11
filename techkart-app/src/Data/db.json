@@ -1,0 +1,380 @@
+{
+  "userinfo": [
+    {
+      "firstname": "Vishal",
+      "lastname": "Verma",
+      "email": "vishal@gmail.com",
+      "password": "Qwer@123",
+      "wishitems": [
+        "1",
+        "5",
+        "3"
+      ],
+      "cart": [
+        {
+          "id": "3",
+          "qty": 1
+        },
+        {
+          "id": "5",
+          "qty": 1
+        }
+      ],
+      "orders": [
+        {
+          "id": "2",
+          "qty": 1,
+          "price": 46251,
+          "total": 46251,
+          "orderdate": "Wed Oct 16 2024 13:10:05 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "4",
+          "qty": 2,
+          "price": 35648,
+          "total": 71296,
+          "orderdate": "Mon Oct 18 2024 20:48:42 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "5",
+          "qty": 1,
+          "price": 52367,
+          "total": 52367,
+          "orderdate": "Fri Nov 1 2024 11:25:15 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "1",
+          "qty": 2,
+          "price": 39977,
+          "total": 79954,
+          "orderdate": "2024-11-13T12:12:21.796Z"
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "firstname": "Rohan",
+      "lastname": "Verma",
+      "email": "rohan@gmail.com",
+      "password": "Qwer@1234",
+      "cart": [
+        {
+          "id": "1",
+          "qty": 2
+        },
+        {
+          "id": "1",
+          "qty": 2
+        }
+      ],
+      "wishitems": [
+        "1",
+        "2"
+      ],
+      "orders": [
+        {
+          "id": "2",
+          "qty": 1,
+          "price": 46251,
+          "total": 46251,
+          "orderdate": "Wed Oct 16 2024 13:10:05 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "4",
+          "qty": 2,
+          "price": 35648,
+          "total": 71296,
+          "orderdate": "Mon Oct 18 2024 20:48:42 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "5",
+          "qty": 1,
+          "price": 52367,
+          "total": 52367,
+          "orderdate": "Fri Nov 1 2024 11:25:15 GMT+0530 (India Standard Time)"
+        }
+      ]
+    },
+    {
+      "id": "3",
+      "firstname": "Deepika",
+      "lastname": "Verma",
+      "email": "deepika@gmail.com",
+      "password": "Qwer@123",
+      "cart": [
+        {
+          "id": "1",
+          "qty": 2
+        },
+        {
+          "id": "2",
+          "qty": 1
+        }
+      ],
+      "wishitems": [
+        "1",
+        "2"
+      ],
+      "orders": [
+        {
+          "id": "2",
+          "qty": 1,
+          "price": 46251,
+          "total": 46251,
+          "orderdate": "Wed Oct 16 2024 13:10:05 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "4",
+          "qty": 2,
+          "price": 35648,
+          "total": 71296,
+          "orderdate": "Mon Oct 18 2024 20:48:42 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "5",
+          "qty": 1,
+          "price": 52367,
+          "total": 52367,
+          "orderdate": "Fri Nov 1 2024 11:25:15 GMT+0530 (India Standard Time)"
+        }
+      ]
+    },
+    {
+      "id": "4",
+      "firstname": "Deepak",
+      "lastname": "Verma",
+      "email": "deepak@gmail.com",
+      "password": "Qwer@123",
+      "cart": [
+        {
+          "id": "1",
+          "qty": 2
+        },
+        {
+          "id": "3",
+          "qty": 2
+        }
+      ],
+      "wishitems": [
+        "1",
+        "2"
+      ],
+      "orders": [
+        {
+          "id": "2",
+          "qty": 1,
+          "price": 46251,
+          "total": 46251,
+          "orderdate": "Wed Oct 16 2024 13:10:05 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "4",
+          "qty": 2,
+          "price": 35648,
+          "total": 71296,
+          "orderdate": "Mon Oct 18 2024 20:48:42 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "5",
+          "qty": 1,
+          "price": 52367,
+          "total": 52367,
+          "orderdate": "Fri Nov 1 2024 11:25:15 GMT+0530 (India Standard Time)"
+        }
+      ]
+    },
+    {
+      "id": "89f6",
+      "firstname": "Shyam",
+      "lastname": "Sharma",
+      "email": "shyam@gmail.com",
+      "password": "Qwer@123",
+      "cart": [
+        {
+          "id": "1",
+          "qty": 2
+        },
+        {
+          "id": "2",
+          "qty": 2
+        }
+      ],
+      "wishitems": [
+        "1",
+        "2"
+      ],
+      "orders": [
+        {
+          "id": "2",
+          "qty": 1,
+          "price": 46251,
+          "total": 46251,
+          "orderdate": "Wed Oct 16 2024 13:10:05 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "4",
+          "qty": 2,
+          "price": 35648,
+          "total": 71296,
+          "orderdate": "Mon Oct 18 2024 20:48:42 GMT+0530 (India Standard Time)"
+        },
+        {
+          "id": "5",
+          "qty": 1,
+          "price": 52367,
+          "total": 52367,
+          "orderdate": "Fri Nov 1 2024 11:25:15 GMT+0530 (India Standard Time)"
+        }
+      ]
+    },
+    {
+      "id": "b459",
+      "firstname": "Raman",
+      "lastname": "Gupta",
+      "email": "raman@gmail.com",
+      "password": "Raman@123",
+      "wishitems": [
+        "5"
+      ],
+      "cart": [],
+      "orders": [
+        {
+          "id": "2",
+          "qty": 1,
+          "price": 62049,
+          "total": 62049,
+          "orderdate": "2024-11-13T20:04:31.310Z"
+        }
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "item": "Laptop",
+      "description": "Lenovo IdeaPad Slim 3 Intel Core i5 12th Gen 12450H - (8 GB/512 GB SSD/Windows 11 Home) 15IAH8 Thin and Light Laptop  (15.6 Inch, Arctic Grey, 1.62 Kg, With MS Office)",
+      "rating": 4.4,
+      "ratingcount": 140,
+      "reviewcount": 10,
+      "mrp": 58790,
+      "discount": 32,
+      "brandimage": "Lenovo.webp",
+      "img": [
+        "LenovoIdeapad1.webp",
+        "LenovoIdeapad2.webp",
+        "LenovoIdeapad3.webp",
+        "LenovoIdeapad4.webp",
+        "LenovoIdeapad5.webp"
+      ]
+    },
+    {
+      "id": "2",
+      "item": "Laptop",
+      "description": "Acer Aspire 7 Intel Core i5 13th Gen 13420H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) A715-79G Gaming Laptop  (15.6 Inch, Black, 1.99 Kg)",
+      "rating": 4.2,
+      "ratingcount": 1055,
+      "reviewcount": 76,
+      "mrp": 84999,
+      "discount": 27,
+      "brandimage": "Acer.webp",
+      "img": [
+        "AcerAspire1.webp",
+        "AcerAspire2.webp",
+        "AcerAspire3.webp",
+        "AcerAspire4.webp",
+        "AcerAspire5.webp"
+      ]
+    },
+    {
+      "id": "3",
+      "item": "Laptop",
+      "description": "DELL Inspiron 3520 Intel Core i3 12th Gen 1215U - (8 GB/512 GB SSD/Windows 11 Home) New Inspiron 15 Laptop | Inspiron 3520 Thin and Light Laptop  (15.6 Inch, Platinum Silver, 1.65 Kg, With MS Office)",
+      "rating": 4.2,
+      "ratingcount": 3406,
+      "reviewcount": 253,
+      "mrp": 49240,
+      "discount": 30,
+      "brandimage": "Dell.webp",
+      "img": [
+        "DellInspiron1.webp",
+        "DellInspiron2.webp",
+        "DellInspiron3.webp",
+        "DellInspiron4.webp",
+        "DellInspiron5.webp"
+      ]
+    },
+    {
+      "id": "4",
+      "item": "Laptop",
+      "description": "HP Pavilion Intel Core i5 13th Gen 1340P - (16 GB/512 GB SSD/Windows 11 Home) 15-eg3079TU Thin and Light Laptop  (15.6 Inch, Natural Silver, 1.75 Kg, With MS Office)",
+      "rating": 4.3,
+      "ratingcount": 1011,
+      "reviewcount": 65,
+      "mrp": 83705,
+      "discount": 22,
+      "brandimage": "HP.webp",
+      "img": [
+        "HPPavilion1.webp",
+        "HPPavilion2.webp",
+        "HPPavilion3.webp",
+        "HPPavilion4.webp",
+        "HPPavilion5.webp"
+      ]
+    },
+    {
+      "id": "5",
+      "item": "Laptop",
+      "description": "ASUS TUF Gaming F17 - AI Powered Gaming Intel Core i5 11th Gen 11400H - (16 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050/70 W) FX706HF-NY040W Gaming Laptop  (17.3 Inch, Graphite Black, 2.60 kg)",
+      "rating": 4.3,
+      "ratingcount": 6549,
+      "reviewcount": 532,
+      "mrp": 85990,
+      "discount": 40,
+      "brandimage": "Asus.webp",
+      "img": [
+        "AsusTUF1.webp",
+        "AsusTUF2.webp",
+        "AsusTUF3.webp",
+        "AsusTUF4.webp",
+        "AsusTUF5.webp"
+      ]
+    }
+  ],
+  "cart": [
+    {
+      "items": [
+        {
+          "id": "3",
+          "qty": 1
+        },
+        {
+          "id": "2",
+          "qty": 1
+        },
+        {
+          "id": "4",
+          "qty": 1
+        },
+        {
+          "id": "5",
+          "qty": 1
+        },
+        {
+          "id": "1",
+          "qty": 1
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "items": [
+        {
+          "id": "2",
+          "qty": 1
+        }
+      ]
+    }
+  ]
+}
